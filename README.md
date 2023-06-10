@@ -7,7 +7,7 @@ git clone https://github.com/fgala1619/api-e-commerce.git
 - Descargar Composer: instala los paquetes y dependencias de laravel. Pueden descargarlo de la url oficial de esta herramienta:
 https://getcomposer.org/
 - IDE de desarrollo para abrir el proyecto, puede ser Visual Studio Code, PHP Storm, SublimeText, etc. (El que mas deseen).
-- Entorno de desarrollo web: Laragon, Xampp ( instala PHP, Apache, MySQL entre otras como herramientas fundamentales).
+- Entorno de desarrollo web: Laragon, Xampp ( instala PHP, Apache, MySQL entre otras como herramientas fundamentales). En mi caso particular use Laragon, pueden usar otro, no hay problemas en eso.
 - MySQL/MariaDB para base de datos (en mi caso use MariaDB para mi es eficiente para la parte de backend)
 - Un visor de base de datos.
 - Postman.
